@@ -1,0 +1,140 @@
+body{
+    background-image: url(img/smoke.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    font-family: sans-serif;
+    
+    
+}
+#wrapper{
+    width: 1400px;
+    margin: 0 auto;
+}
+#mid{
+    width: 100%;
+    float: left;
+}
+aside{
+/*    display: block;*/
+    float: left;
+    height: 800px;
+    width: 30%;
+    background-color: black;
+    color:white;
+    margin-top: -16px;
+    padding-left: 40px;
+}
+#menu{
+    margin-top: -28px;
+    background-color: black;
+    width: 1400px;
+    height: 50px;
+}
+#menu h1{
+    color: green;
+    padding: 5px;
+    padding-left: 40px;
+}
+footer{
+    float: left;
+    width: 1360px;
+    height: 250px;
+    background-color: black;
+    color: white;
+    padding-left: 40px;
+}
+#footer2{
+    height: 50px;
+    width: 1400px;;
+    background-color: black;
+    border-top: 1px solid grey; 
+    margin-left: -1px;
+    color: grey;
+    float: left;
+}
+#text{
+    height:785px;
+    width:67.1%;
+    background-color: white;
+    float:left;
+/*    margin-right: 486px;*/
+/*
+    margin-left: 300px;
+    margin-top: -720px;
+*/
+}
+#text1{
+    color:grey;
+}
+#ser{
+    background-color: #2E2E2E;
+    color: #848484;
+    border-color: #848484;
+}
+.link{
+    color: white;
+    text-decoration: none;
+   margin-top: 8px;
+}
+.link:hover{
+    color: green;
+}
+.footer1{
+    width: 340px;
+    float: left
+}
+ li{
+    width: 50px;
+    height: 50px;
+    float: right;
+    background-color: green;
+    list-style: none;
+}
+i{
+    float: right;
+    color: white;
+    text-align: center;
+
+}
+ li:hover{
+    background-color: lightgreen;
+    
+}
+.menu{
+    float: right;
+    color: white;
+    height: 40px;
+    width: 70px;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+    
+}
+.menu:hover{
+    background-color: green;
+    float: right;
+    color: white;
+    
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+}
+#textjes{
+    width: 50%;
+}
+#inhoud{
+    margin-left: 20%;
+}
+#footer2 img {
+    margin-top: 15px;
+    width: 60px;
+    height: 20px;
+    float: left;
+}
+#footer2 p{
+    float: left;
+}
+
+
